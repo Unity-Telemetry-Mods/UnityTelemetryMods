@@ -10,3 +10,6 @@
 [submodule "telemetry-lib"]
 	path = telemetry-lib
 	url = https://github.com/drowhunter/telemetry-lib.git
+[submodule "SharedLib-legacy"]
+	path = SharedLib-legacy
+	url = https://github.com/Unity-Telemetry-Mods/SharedLib.git
