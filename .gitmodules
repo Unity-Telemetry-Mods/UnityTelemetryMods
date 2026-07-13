@@ -7,3 +7,6 @@
 [submodule "Distance-TelemetryMod"]
 	path = Distance-TelemetryMod
 	url = git@github.com:Unity-Telemetry-Mods/Distance-TelemetryMod.git
+[submodule "telemetry-lib"]
+	path = telemetry-lib
+	url = https://github.com/drowhunter/telemetry-lib.git

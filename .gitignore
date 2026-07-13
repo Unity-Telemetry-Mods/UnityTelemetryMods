@@ -402,3 +402,4 @@ FodyWeavers.xsd
 Unity*.dll
 Assembly*.dll
 lib/*
+/NewStarPub
