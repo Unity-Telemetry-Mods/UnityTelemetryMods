@@ -1,6 +1,20 @@
 [submodule "NewStarGP-TelemetryMod"]
 	path = NewStarGP-TelemetryMod
 	url = git@github.com:Unity-Telemetry-Mods/NewStarGP-TelemetryMod.git
+	branch = main
 [submodule "Distance-TelemetryMod"]
 	path = Distance-TelemetryMod
 	url = git@github.com:Unity-Telemetry-Mods/Distance-TelemetryMod.git
+	branch = main
+[submodule "SharedLib"]
+	path = SharedLib
+	url = git@github.com:Unity-Telemetry-Mods/SharedLib.git
+	branch = modern
+[submodule "SharedLib-legacy"]
+	path = SharedLib-legacy
+	url = git@github.com:Unity-Telemetry-Mods/SharedLib.git
+	branch = net35
+[submodule "telemetry-lib"]
+	path = telemetry-lib
+	url = git@github.com:drowhunter/telemetry-lib.git
+	branche = master
