@@ -14,3 +14,7 @@
 	path = telemetry-lib
 	url = git@github.com:drowhunter/telemetry-lib.git
 	branche = master
+[submodule "NewStarGP-TelemetryMod"]
+	path = NewStarGP-TelemetryMod
+	url = git@github.com:Unity-Telemetry-Mods/NewStarGP-TelemetryMod.git
+	branch = ffb
