@@ -1,7 +1,3 @@
-[submodule "NewStarGP-TelemetryMod"]
-	path = NewStarGP-TelemetryMod
-	url = git@github.com:Unity-Telemetry-Mods/NewStarGP-TelemetryMod.git
-	branch = main
 [submodule "Distance-TelemetryMod"]
 	path = Distance-TelemetryMod
 	url = git@github.com:Unity-Telemetry-Mods/Distance-TelemetryMod.git
